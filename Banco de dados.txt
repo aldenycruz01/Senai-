@@ -1,0 +1,13 @@
+
+INSERT INTO Usuarios VALUES ('Haite', 'Senha123');
+INSERT INTO Classes VALUES ('PAdre', 'Descricao do Padre');
+INSERT INTO Habilidades VALUES ('Recuperar a vida');
+INSERT INTO Personagens VALUES ('BitBug',2, 2);
+INSERT INTO ClassesHabilidades VALUES (2,2), (2,2);
+
+
+INSERT INTO Usuarios VALUES ('Aphonso', 'Senha1234');
+INSERT INTO Classes VALUES ('Guerreiro', 'Descricao do Guerreiro');
+INSERT INTO Habilidades VALUES ('Lança Mortal'), ('Escudo Supremo');
+INSERT INTO Personagens VALUES ('DeuBug',1, 1);
+INSERT INTO ClassesHabilidades VALUES (1,1), (1,2);
